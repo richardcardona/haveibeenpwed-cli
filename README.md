@@ -2,6 +2,7 @@
 Bash shell script CLI to check with "Have I Been Pwned" v2 API
 
 Sample output for 'password':
+
 Password to check with 'Have I been pwned'
 
 NOTE: The entered password does not leave this system.
