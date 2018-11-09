@@ -1,2 +1,2 @@
 # haveibeenpwed-cli
-CLI to check with Have I Been Pwned's v2 API
+Bash shell script CLI to check with "Have I Been Pwned" v2 API
