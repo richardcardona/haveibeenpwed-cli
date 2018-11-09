@@ -11,5 +11,6 @@ An SHA-1 hash of the entered password is computed locally, the first five digits
 If no output appears your password was not found. If a hash is printed, a match of the full SHA-1 hash of the entered password was found.
 The number after the colon is the number of instances the entered password was found in the database
 
-Password:
+Password: ********
+
 1E4C9B93F3F0682250B6CF8331B7EE68FD8:3533661
